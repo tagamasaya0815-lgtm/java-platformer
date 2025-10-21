@@ -45,7 +45,6 @@ java-platformer/
 ├─ README.md
 └─ .gitignore
 
-
 ---
 
 ## 動画デモ
